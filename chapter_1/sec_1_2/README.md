@@ -1,4 +1,4 @@
-# Chapter 1
+# Section 1.2: Hello, World!
 
 ## Writing Rust
 
